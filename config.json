@@ -1,0 +1,21 @@
+{
+  "interval": {
+    "dayOfWeek": 2,
+    "month": 3,
+    "dayOfMonth": 1,
+    "hour": 1,
+    "minute": 1,
+    "second": 0
+  },
+  "keepLogCount": 1,
+  "logDirPath": "/Volumes/dev/hl-dev-workspace/flash_h5_server_logs",
+  "maxLogSize": 1024,
+  "dateReg": {
+    "year": ".{7}(.{4}).*",
+    "month": ".{12}(.{2}).*",
+    "day": ".{15}(.{2}).*",
+    "hour": ".{18}(.{2}).*",
+    "minute": "",
+    "second": ""
+  }
+}
